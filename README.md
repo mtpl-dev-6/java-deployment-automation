@@ -63,37 +63,6 @@ chmod +x install_service.sh
 sudo ./install_service.sh
 
 
-📊 Application Details
-
-Application
-
-Technology
-
-Port
-
-Service Name
-
-URL
-
-Modern App
-
-Spring Boot
-
-8080
-
-my-spring-app
-
-http://localhost:8080
-
-Legacy App
-
-Java Servlet
-
-8081
-
-my-servlet-app
-
-http://localhost:8081/hello
 
 👨‍💻 Management Commands (Cheat Sheet)
 
